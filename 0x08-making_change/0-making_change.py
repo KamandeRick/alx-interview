@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+Module to find least change needed
+"""
 
 
 def makeChange(coins, total):
